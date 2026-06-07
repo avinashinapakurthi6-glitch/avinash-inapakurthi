@@ -217,6 +217,7 @@ export const HeroSection: React.FC = () => {
                 href="https://github.com/avinashinapakurthi6-glitch"
                 target="_blank"
                 rel="noopener noreferrer"
+                aria-label="GitHub Profile"
                 className="p-3 rounded-lg bg-cyber-navy border border-cyber-border text-gray-400 hover:text-cyber-cyan hover:border-cyber-cyan/50 transition-all"
               >
                 <Github className="w-5 h-5" />
@@ -225,12 +226,14 @@ export const HeroSection: React.FC = () => {
                 href="https://linkedin.com/in/avinash-inapakurthi-1a3871316/"
                 target="_blank"
                 rel="noopener noreferrer"
+                aria-label="LinkedIn Profile"
                 className="p-3 rounded-lg bg-cyber-navy border border-cyber-border text-gray-400 hover:text-cyber-cyan hover:border-cyber-cyan/50 transition-all"
               >
                 <Linkedin className="w-5 h-5" />
               </a>
               <a
                 href="mailto:avinashinapakurthi31@gmail.com"
+                aria-label="Email Address"
                 className="p-3 rounded-lg bg-cyber-navy border border-cyber-border text-gray-400 hover:text-cyber-cyan hover:border-cyber-cyan/50 transition-all"
               >
                 <Mail className="w-5 h-5" />

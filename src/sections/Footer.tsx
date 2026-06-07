@@ -62,6 +62,7 @@ export const Footer: React.FC = () => {
           {/* Scroll to Top */}
           <button
             onClick={handleScrollTop}
+            aria-label="Scroll to top"
             className="p-3 rounded-full bg-cyber-navy border border-cyber-border text-gray-400 hover:text-cyber-cyan hover:border-cyber-cyan/50 hover:shadow-glow transition-all cursor-pointer"
           >
             <ArrowUp className="w-5 h-5" />
