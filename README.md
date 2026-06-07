@@ -3,7 +3,7 @@
 A high-fidelity, interactive, and responsive cyberpunk-themed developer portfolio website built using React, Vite, TypeScript, Tailwind CSS v4, and GSAP animations.
 
 ## 🚀 Live Demo
-Visit the live portal here: [https://avinashinapakurthi.vercel.app/](https://avinashinapakurthi.vercel.app/)
+Visit the live portal here: [https://avinash-inapakurthi.vercel.app/](https://avinash-inapakurthi.vercel.app/)
 
 ## 🎨 Theme & Visual Design
 - **Theme**: Cyberpunk dark void (`bg-[#05050a]`) with neon cyan (`#00f0ff`) and blue accents.
